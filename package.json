@@ -1,0 +1,22 @@
+{
+  "name": "ecomm-fullstack",
+  "version": "1.0.0",
+  "description": "An E-Comm application using react, redux for the frontend and node, express for the backend.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-shiv061:shiv061/ecomm-fullstack.git"
+  },
+  "keywords": [],
+  "author": "Shivansh",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
